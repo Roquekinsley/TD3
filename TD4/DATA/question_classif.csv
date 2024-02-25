@@ -1,0 +1,99 @@
+question,label_text,label
+What are the recommended prerequisites for the introduction to machine learning course?,question_rag,0
+Does the cybersecurity course cover intrusion detection methods?,question_rag,0
+How can I enroll in the Python course?,question_rag,0
+What are the main basic concepts covered in the SQL course?,question_rag,0
+Does the React course include practical projects to apply the learned concepts?,question_rag,0
+What are the main topics covered in the introduction to machine learning course?,question_rag,0
+Does the cybersecurity course address the latest trends in cybersecurity?,question_rag,0
+Are there any recommended additional resources to deepen my knowledge in Python?,question_rag,0
+Does the React course cover the use of hooks?,question_rag,0
+What are the specific learning objectives of the SQL course?,question_rag,0
+Does the Python course include practical lab sessions to apply the concepts learned in class?,question_rag,0
+What are the advantages of learning React compared to other JavaScript frameworks?,question_rag,0
+Does the introduction to machine learning course include real-world case studies to illustrate the concepts?,question_rag,0
+How are assessments organized in the cybersecurity course?,question_rag,0
+Does the SQL course cover relational database design?,question_rag,0
+Are tutoring sessions available to get extra help on specific Python concepts?,question_rag,0
+Does the cybersecurity course cover compliance with regulations such as GDPR or HIPAA?,question_rag,0
+Does the React course explore advanced topics like server-side rendering with Next.js?,question_rag,0
+What practical skills can students expect to develop after completing the introduction to machine learning course?,question_rag,0
+Does the SQL course include group projects to encourage collaboration and teamwork?,question_rag,0
+What are the career prospects after completing the cybersecurity course?,question_rag,0
+Does the Python course include programming exercises to reinforce understanding of concepts?,question_rag,0
+How does the introduction to machine learning course address model performance evaluation techniques?,question_rag,0
+Does the React course cover development and testing best practices?,question_rag,0
+Are there certifications associated with the cybersecurity or SQL courses?,question_rag,0
+Does the introduction to machine learning course explore applications of deep learning?,question_rag,0
+What are the recommended tools and IDEs for working on Python projects in the course?,question_rag,0
+Does the SQL course include industrial case studies to contextualize the taught concepts?,question_rag,0
+How does the React course address component state management?,question_rag,0
+Does the cybersecurity course include demonstrations of attack and defense techniques?,question_rag,0
+"What are the main differences between SQL and NoSQL, and does the SQL course cover them?",question_rag,0
+Does the introduction to machine learning course require prior knowledge of advanced mathematics?,question_rag,0
+How could the Python course be useful in other study or work domains outside of computer science?,question_rag,0
+Does the React course cover integration with third-party libraries or external APIs?,question_rag,0
+How does the cybersecurity course raise awareness among students about common security risks on the Internet?,question_rag,0
+Does the introduction to machine learning course use concrete examples from different application domains?,question_rag,0
+Does the SQL course also explore query performance and optimization aspects?,question_rag,0
+How could the Python course be applied in the field of data analysis or data science?,question_rag,0
+Does the cybersecurity course cover concepts of data privacy and protection of privacy?,question_rag,0
+Does the React course focus on efficient design and organization of user interface components?,question_rag,0
+Does the Python course also cover the use of specific libraries like NumPy or Pandas?,question_rag,0
+How does the introduction to machine learning course address issues of overfitting and underfitting?,question_rag,0
+Does the cybersecurity course include discussions on emerging trends in cyberattacks?,question_rag,0
+Does the SQL course offer practice sessions on online database platforms?,question_rag,0
+How does the React course handle application performance in terms of rendering and responsiveness?,question_rag,0
+Does the introduction to machine learning course include group work on research projects?,question_rag,0
+What specific cybersecurity skills can students expect to gain by the end of the course?,question_rag,0
+Does the Python course also cover advanced topics such as image manipulation or natural language processing?,question_rag,0
+Does the cybersecurity course include case studies on real security incidents?,question_rag,0
+Send a message to Mom telling her I'll be home late,send_message,1
+Write to the professor asking about the exam format,send_message,1
+Text John asking if he's available for a meeting tomorrow,send_message,1
+Message the customer support about my order status,send_message,1
+Ask the team lead for feedback on the project presentation,send_message,1
+Send a note to the neighbor expressing gratitude for their help,send_message,1
+Write to the HR department inquiring about vacation policies,send_message,1
+Text the best friend inviting them to the weekend party,send_message,1
+Message the group chat about the change in meeting time,send_message,1
+Ask the landlord if it's possible to extend the lease,send_message,1
+Send a message to the IT support reporting a technical issue,send_message,1
+Write to the travel agency asking for recommendations on destinations,send_message,1
+Text the colleague to confirm the details of tomorrow's meeting,send_message,1
+Message the friend congratulating them on their new job,send_message,1
+Ask the coach about the upcoming training schedule,send_message,1
+Send a note to the local council expressing concerns about street lighting,send_message,1
+Write to the professor thanking them for the insightful lecture,send_message,1
+Text the sibling to remind them about the family gathering next week,send_message,1
+Message the boss requesting feedback on the recent project proposal,send_message,1
+Ask the customer for clarification on their support ticket,send_message,1
+Send a message to the book club leader confirming attendance at the next meeting,send_message,1
+Write to the supplier asking for a quote on bulk orders,send_message,1
+Text the classmate to discuss the group project progress,send_message,1
+Message the neighbor requesting to borrow a lawnmower for the weekend,send_message,1
+Ask the mentor for advice on career development,send_message,1
+Send a note to the school principal addressing concerns about facilities,send_message,1
+Write to the local charity organization offering volunteer services,send_message,1
+Text the roommate reminding them to pay their share of the utility bills,send_message,1
+Message the colleague expressing interest in collaborating on a new project,send_message,1
+Ask the doctor about the potential side effects of the prescribed medication,send_message,1
+Send a message to the event organizer requesting details about the upcoming conference,send_message,1
+Write to the friend inviting them to join a fitness class together,send_message,1
+Text the project team about the change in project timeline,send_message,1
+Message the professor asking for clarification on the assignment instructions,send_message,1
+Ask the car mechanic for a quote on repairing the brakes,send_message,1
+Send a note to the apartment manager reporting a maintenance issue,send_message,1
+Write to the colleague expressing gratitude for their assistance on the project,send_message,1
+Text the family member to coordinate plans for the upcoming holiday gathering,send_message,1
+Message the online support team seeking help with account login issues,send_message,1
+Ask the financial advisor for recommendations on investment strategies,send_message,1
+Send a message to the coworker congratulating them on their recent promotion,send_message,1
+Write to the professor requesting an extension for submitting the assignment,send_message,1
+Text the team member to discuss ideas for the upcoming project presentation,send_message,1
+Message the online retailer about a discrepancy in the delivered products,send_message,1
+Ask the travel agent for information on visa requirements for the upcoming trip,send_message,1
+Send a note to the supervisor expressing interest in attending a professional development workshop,send_message,1
+Write to the community leader suggesting improvements for the neighborhood park,send_message,1
+Text the roommate to coordinate grocery shopping and share the shopping list,send_message,1
+Message the software developer asking for guidance on a coding challenge,send_message,1
